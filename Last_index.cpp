@@ -1,3 +1,5 @@
+// Program to find the last index of a given number in an array
+
 #include <iostream>
 #include<conio.h>
 using namespace std;
