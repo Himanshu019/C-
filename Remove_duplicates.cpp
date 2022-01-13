@@ -9,6 +9,7 @@ void remove(char s[100]){
 		return;
 	int i = 0;
 	remove(s+1);
+
 	if(s[0] == s[1]){
 		for(; s[i] != '\0'; i++){
 			s[i] = s[i+1];
